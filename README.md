@@ -1,5 +1,5 @@
-# Cypress-Form
-Um repositório sobre alguns testes que realizei usando o Cypress para os alunos da Digital Innovation One! Bora aprender, galera :) 
+# Projeto de Testes com Cypress realizado na Digital Innovation One
+### Um repositório sobre alguns testes com Cypress
 
 Sobre a configuração do ambiente...
 
@@ -22,4 +22,3 @@ Sobre a configuração do ambiente...
 Agora é só escrever o seu primeiro teste em um arquivo .spec.js :-)
 
 
-Se houverem dúvidas, mandem uma mensagem para mim: https://www.linkedin.com/in/barbaracasac/
